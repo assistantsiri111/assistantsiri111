@@ -14,6 +14,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=assistantsiri111&style=flat-square&color=blue" alt=""/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 - 🔭 I’m currently working on AWS and Devops Projects
 - 🌱 I’m currently learning AWS and devops skills
