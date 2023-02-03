@@ -45,9 +45,16 @@
 
 ---
 
-### :fire: My Stats :
+<h3>GitHub Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=assistantsiri111&theme=dark&background=000000)](https://git.io/streak-stats)
+<details>
+<summary><b>📊 GitHub Profile Stats</b></summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=assistantsiri111&show_icons=true&locale=en" alt="assistantsiri111" />
+</details>
+<details>
+<summary><b>📈 My Top Languages</b></summary>
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assistantsiri111&show_icons=true&locale=en&layout=compact" alt="assistantsiri111" /></p>
+</details>
 
 
 
